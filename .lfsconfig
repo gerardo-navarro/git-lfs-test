@@ -1,0 +1,3 @@
+[lfs]
+	# Store the LFS content of this GitHub repo in the GitLab project.
+	url = ssh://git@gitlab.com/b310-digital/git-lfs-test.git
